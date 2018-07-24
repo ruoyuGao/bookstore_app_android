@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">storeapp</string>
+    <string name="unknown_type">Unknown</string>
+    <string name="male_type">Male</string>
+    <string name="female_type">Female</string>
+    <string name="editor_activity_title_new_pet">add a book</string>
+    <string name="editor_activity_title_edit_pet">change a book</string>
+    <string name="editor_insert_book_failed">insert error</string>
+    <string name="editor_insert_book_successful">insert success</string>
+    <string name="editor_update_book_failed">may be book has no name or number is under 0</string>
+    <string name="editor_update_book_successful">update successful</string>
+    <string name="unsaved_changes_dialog_msg">unsave</string>
+    <string name="discard">discard</string>
+    <string name="keep_editing">keep editing</string>
+    <string name="delete_dialog_msg">delete_dialog_msg</string>
+    <string name="delete">delete</string>
+    <string name="cancel">cancel</string>
+    <string name="editor_delete_book_failed">editor_delete_pet_failed</string>
+    <string name="editor_delete_book_successful">editor_delete_pet_successful</string>
+    <string name="empty_view_title_text">empty view</string>
+    <string name="empty_view_subtitle_text">empty</string>
+</resources>

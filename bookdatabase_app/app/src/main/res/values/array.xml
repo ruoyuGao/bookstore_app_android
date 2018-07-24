@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the gender drop-down Spinner -->
+    <string-array name="book_type_options">
+        <item>@string/unknown_type</item>
+        <item>@string/male_type</item>
+        <item>@string/female_type</item>
+    </string-array>
+</resources>
